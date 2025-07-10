@@ -13,11 +13,10 @@ class Solution {
         if(root==p || root==q) return root;
         TreeNode left=func(root.left,p,q);
         TreeNode right=func(root.right,p,q);
-        if (left != null && right != null) return root;
-        if (left != null) return left;
-        if (right != null) return right;
+        if(left!=null && right!=null) return root;
+        if(left!=null) return left;
+        if(right!=null) return right;
         return null;
-        // return left!=null ?left:right; 
     }
     public TreeNode lowestCommonAncestor(TreeNode root, TreeNode p, TreeNode q) {
         return func(root,p,q);
