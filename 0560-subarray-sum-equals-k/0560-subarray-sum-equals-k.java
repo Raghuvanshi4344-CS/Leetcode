@@ -1,37 +1,15 @@
-// class Solution {
-//     public int subarraySum(int[] nums, int k) {
-//         HashMap<Integer,Integer> hash=new HashMap<>();
-//         for(int i=0;i<nums.length;i++){
-//             hash.put(nums[i],i);
-//         }
-//         int count=0;
-//         for(int i=0;i<nums.length;i++){
-//             int tg=k-nums[i];
-//             if(hash.containsKey(tg) && hash.get(tg)!=i){
-//                 count++;
-//             }
-//         }
-//         return count;
-//     }
-// }
 class Solution {
     public int subarraySum(int[] nums, int k) {
-        HashMap<Integer, Integer> hash = new HashMap<>();
+        HashMap<Integer, Integer> prefixSums = new HashMap<>();
+        prefixSums.put(0, 1);  
         int sum = 0;
         int count = 0;
-
-        for (int i = 0; i < nums.length; i++) {
-            sum += nums[i];
-
-            if (sum == k) {
-                count++;
+        for (int num : nums) {
+            sum += num;
+            if (prefixSums.containsKey(sum - k)) {
+                count += prefixSums.get(sum - k);
             }
-
-            if (hash.containsKey(sum - k)) {
-                count += hash.get(sum - k);
-            }
-
-            hash.put(sum, hash.getOrDefault(sum, 0) + 1);
+            prefixSums.put(sum, prefixSums.getOrDefault(sum, 0) + 1);
         }
 
         return count;
