@@ -22,17 +22,31 @@
 
 class Solution {
     public List<List<Integer>> generate(int numRows) {
-        List<List<Integer>> re = new ArrayList<>();
-        for (int i = 0; i < numRows; i++) {
-            List<Integer> row = new ArrayList<>();
-            int value = 1;
-            for (int j = 0; j <= i; j++) {
-                if (j == 0) {
-                    value = 1; 
-                } else {
-                    value = value * (i - j + 1) / j;
+        // List<List<Integer>> re = new ArrayList<>();
+        // for (int i = 0; i < numRows; i++) {
+        //     List<Integer> row = new ArrayList<>();
+        //     int value = 1;
+        //     for (int j = 0; j <= i; j++) {
+        //         if (j == 0) {
+        //             value = 1; 
+        //         } else {
+        //             value = value * (i - j + 1) / j;
+        //         }
+        //         row.add(value);
+        //     }
+        //     re.add(row);
+        // }
+        // return re;
+        List<List<Integer>> re=new ArrayList<>();
+        for(int i=0;i<numRows;i++){
+            List<Integer> row=new ArrayList<>();
+            int val=1;
+            for(int j=0;j<=i;j++){
+                if(j==0) val=1;
+                else{
+                    val=val*(i-j+1)/j;
                 }
-                row.add(value);
+                row.add(val);
             }
             re.add(row);
         }
