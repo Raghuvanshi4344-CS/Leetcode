@@ -21,11 +21,11 @@ class Solution {
         for(int i=0;i<nums.length;i++){
             int tg=target-nums[i];
             if(hash.containsKey(tg)){
-                if (hash.get(tg) != i) {
-                    return new int[] { i, hash.get(tg) };
+                if(hash.get(tg)!=i){
+                    return new int []{i,hash.get(tg)};
                 }
             }
         }
-        return new int[0];
+        return new int []{0,0};
     }
 }
