@@ -4,23 +4,18 @@ class Solution {
         int left=0;
         int right=arr.length-1;
         while(left<right){
-            int temp=0;
+            int temp=Math.min(arr[left],arr[right])*(right-left);
+            max=Math.max(temp,max);
             if(arr[left]<arr[right]){
-                temp=arr[left]*(right-left);
+                // temp=arr[left]*(right-left);
                 left++;
             }
             else{
-                temp=arr[right]*(right-left);
+                // temp=arr[right]*(right-left);
                 right--;
             }
-            if(temp>max) max=temp;
+            // if(temp>max) max=temp;
         }
         return max;
-        // int re=maxt(arr,n);
-        // return re;
     }
 }
-
-// class maxt(int []arr,int n){
-//     if()
-// }
