@@ -9,7 +9,7 @@ class Solution {
                     arr[i][j]=arr[i-1][j-1]+1;
                 }
                 else{
-                    arr[i][j]=Math.max(arr[i-1][j],arr[i][j-1]);
+                    arr[i][j]=Math.max(arr[i][j-1],arr[i-1][j]);
                 }
             }
         }
