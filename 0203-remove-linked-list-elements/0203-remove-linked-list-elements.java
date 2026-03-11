@@ -28,24 +28,35 @@
 // }
 
 class Solution {
-    ListNode new fin;
-    public void add(int data){
+    ListNode fin;
+    public void addf(int data){
         ListNode newNode=new ListNode(data);
-        if(head==null){
-            head=newNode;
+        if(fin==null) {
+            fin=newNode;
             return;
         }
-        newNode.next=head;
-        head=newNode;
+        ListNode temp=fin;
+        while(temp.next!=null){
+            temp=temp.next;
+        }
+        temp.next=newNode;
+        // ListNode newNode=new ListNode(data);
+        // if(fin==null){
+        //     fin=newNode;
+        //     return;
+        // }
+        // newNode.next=fin;
+        // fin=newNode;
     }
     public ListNode removeElements(ListNode head, int val) {
         if (head==null) return head;
-        ListNode new fin;
+        fin=null;
         while(head!=null){
             if(head.val!=val){
-                fin.add(val)
+                addf(head.val);
             }
             head=head.next;
         }
+        return fin;
     }
 }
