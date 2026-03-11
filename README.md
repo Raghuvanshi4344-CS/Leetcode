@@ -19,5 +19,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0203-remove-linked-list-elements](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0817-linked-list-components](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0817-linked-list-components/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0203-remove-linked-list-elements](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0203-remove-linked-list-elements/) | Easy |
 <!---LeetCode Topics End-->
