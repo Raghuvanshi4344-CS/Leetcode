@@ -40,13 +40,6 @@ class Solution {
             temp=temp.next;
         }
         temp.next=newNode;
-        // ListNode newNode=new ListNode(data);
-        // if(fin==null){
-        //     fin=newNode;
-        //     return;
-        // }
-        // newNode.next=fin;
-        // fin=newNode;
     }
     public ListNode removeElements(ListNode head, int val) {
         if (head==null) return head;
