@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0071-simplify-path](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0071-simplify-path/) | Medium |
 | [0387-first-unique-character-in-a-string](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
@@ -62,4 +63,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0622-design-circular-queue](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0622-design-circular-queue/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0071-simplify-path](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0071-simplify-path/) | Medium |
 <!---LeetCode Topics End-->
