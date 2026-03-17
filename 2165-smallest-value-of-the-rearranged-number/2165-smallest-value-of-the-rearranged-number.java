@@ -13,7 +13,6 @@ class Solution {
         for(int i=0;i<s;i++){
             arr[i]=(int)(tem%10);
             tem/=10;
-            System.out.println(arr[i]);
         }
         for (int i =0;i<s;i++) {
             for (int j=i+1;j<s; j++) {
@@ -37,15 +36,19 @@ class Solution {
             int i = 0;
             while(i<s && arr[i]==0) i++;
             res=arr[i];
-            if (i<s) {
-                res=arr[i];
-                arr[i]=0;
+            // if (i<s) {
+            //     res=arr[i];
+            //     arr[i]=0;
+            // }
+            for(int j = 0; j < i; j++){
+                res=res * 10;
             }
-            for (int j=0;j<s;j++) {
-                if (j!=i) {
-                    res=res*10+arr[j];
-                }
-            }
+            // for (int j=0;j<s;j++) {
+            //     if (j!=i) {
+            //         res=res*10+arr[j];
+            //     }
+            // }
+            for(int j = i+1; j < s; j++) res = res*10 + arr[j];
         }
         else{for(int i=0;i<s;i++){
             res=res*10+arr[i];
