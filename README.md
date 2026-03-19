@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0164-maximum-gap](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0164-maximum-gap/) | Medium |
 | [0169-majority-element](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0218-the-skyline-problem](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0218-the-skyline-problem/) | Hard |
 | [0219-contains-duplicate-ii](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0239-sliding-window-maximum](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -66,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0218-the-skyline-problem](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0218-the-skyline-problem/) | Hard |
 | [0239-sliding-window-maximum](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Monotonic Queue
@@ -90,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0164-maximum-gap](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0164-maximum-gap/) | Medium |
 | [0169-majority-element](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0218-the-skyline-problem](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0218-the-skyline-problem/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [2165-smallest-value-of-the-rearranged-number](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/2165-smallest-value-of-the-rearranged-number/) | Medium |
 ## Divide and Conquer
@@ -97,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0218-the-skyline-problem](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0218-the-skyline-problem/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Bucket Sort
 | Problem Name | Difficulty |
@@ -112,4 +116,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0164-maximum-gap](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0164-maximum-gap/) | Medium |
+## Binary Indexed Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0218-the-skyline-problem](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0218-the-skyline-problem/) | Hard |
+## Segment Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0218-the-skyline-problem](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0218-the-skyline-problem/) | Hard |
+## Sweep Line
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0218-the-skyline-problem](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0218-the-skyline-problem/) | Hard |
+## Ordered Set
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0218-the-skyline-problem](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0218-the-skyline-problem/) | Hard |
 <!---LeetCode Topics End-->
