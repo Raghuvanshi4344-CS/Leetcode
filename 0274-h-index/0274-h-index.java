@@ -1,19 +1,37 @@
+// class Solution {
+//     public int hIndex(int[] arr) {
+//         Arrays.sort(arr);
+//         int max=0;
+//         for(int i=0;i<arr.length;i++){
+//             int x=arr.length-i;
+//             int y=0;
+//             for(int j=i;j<arr.length;j++){
+//                 if(arr[j]>=x){
+//                     y++;
+//                 }
+//             }
+//             if(y>=x){
+//                 max=Math.max(max,x);
+//             }
+//         }
+//         return max;
+//     }
+// }
+
+
+import java.util.Arrays;
+
 class Solution {
     public int hIndex(int[] arr) {
         Arrays.sort(arr);
-        int max=0;
-        for(int i=0;i<arr.length;i++){
-            int x=arr.length-i;
-            int y=0;
-            for(int j=i;j<arr.length;j++){
-                if(arr[j]>=x){
-                    y++;
-                }
-            }
-            if(y>=x){
-                max=Math.max(max,x);
+        int n = arr.length;
+
+        for (int i = 0; i < n; i++) {
+            int h = n - i;
+            if (arr[i] >= h) {
+                return h;
             }
         }
-        return max;
+        return 0;
     }
 }
