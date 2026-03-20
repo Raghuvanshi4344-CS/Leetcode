@@ -36,9 +36,8 @@ import java.util.PriorityQueue;
 import java.util.Collections;
 
 class MedianFinder {
-    private PriorityQueue<Integer> maxHeap; // smaller half
-    private PriorityQueue<Integer> minHeap; // larger half
-
+    private PriorityQueue<Integer> maxHeap; 
+    private PriorityQueue<Integer> minHeap; 
     public MedianFinder() {
         maxHeap = new PriorityQueue<>(Collections.reverseOrder());
         minHeap = new PriorityQueue<>();
@@ -56,7 +55,7 @@ class MedianFinder {
         if (maxHeap.size() > minHeap.size()) {
             return maxHeap.peek();
         } else {
-            return (maxHeap.peek() + minHeap.peek()) / 2.0;
+            return (maxHeap.peek() + minHeap.peek());
         }
     }
 }
