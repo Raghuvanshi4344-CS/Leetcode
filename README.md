@@ -53,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0071-simplify-path](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0071-simplify-path/) | Medium |
 | [0387-first-unique-character-in-a-string](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [1143-longest-common-subsequence](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/1143-longest-common-subsequence/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -175,4 +176,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
+| [1143-longest-common-subsequence](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/1143-longest-common-subsequence/) | Medium |
 <!---LeetCode Topics End-->
