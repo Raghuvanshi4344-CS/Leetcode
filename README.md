@@ -111,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0043-multiply-strings](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0043-multiply-strings/) | Medium |
+| [0367-valid-perfect-square](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0367-valid-perfect-square/) | Easy |
 | [2165-smallest-value-of-the-rearranged-number](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/2165-smallest-value-of-the-rearranged-number/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
@@ -189,6 +190,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0300-longest-increasing-subsequence](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0367-valid-perfect-square](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0367-valid-perfect-square/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0875-koko-eating-bananas/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
