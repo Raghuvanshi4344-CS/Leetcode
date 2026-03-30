@@ -1,20 +1,29 @@
 class Solution {
-    static void func(int []arr,List<List<Integer>> re,List<Integer> temp,int start){
-        if(arr.length==temp.size()) {
-            re.add(new ArrayList<>(temp));
-            return ;
+
+    private void solve(List<List<Integer>> ls, int []arr,int index){
+        if(index>=arr.length){
+            List<Integer> temp=new ArrayList<>();
+            for(int num:arr){
+                temp.add(num);
+            }
+            ls.add(temp);
+            return;
         }
-        for(int i=0;i<arr.length;i++){
-            if(temp.contains(arr[i])) continue;
-            temp.add(arr[i]);
-            func(arr,re,temp,i+1);
-            temp.remove(temp.size()-1);
+        for(int j=index;j<arr.length;j++){
+            swap(arr,index,j);
+            solve(ls,arr,index+1);
+            swap(arr,index,j);
         }
     }
+
+    private void swap(int []arr,int i,int j){
+        int temp=arr[i];
+        arr[i]=arr[j];
+        arr[j]=temp;
+    }
     public List<List<Integer>> permute(int[] nums) {
-        List<List<Integer>> re=new ArrayList<>();
-        List<Integer> temp=new ArrayList<>();
-        func(nums,re,temp,0);
-        return re;
+        List<List<Integer>> ls=new ArrayList<>();
+        solve(ls,nums,0);
+        return ls;
     }
 }
