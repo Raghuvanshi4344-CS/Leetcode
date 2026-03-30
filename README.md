@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0047-permutations-ii](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0047-permutations-ii/) | Medium |
 | [0054-spiral-matrix](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0054-spiral-matrix/) | Medium |
 | [0137-single-number-ii](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0137-single-number-ii/) | Medium |
 | [0164-maximum-gap](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0164-maximum-gap/) | Medium |
@@ -113,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0047-permutations-ii](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0047-permutations-ii/) | Medium |
 | [0164-maximum-gap](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0164-maximum-gap/) | Medium |
 | [0169-majority-element](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
@@ -207,4 +209,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0043-multiply-strings](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0043-multiply-strings/) | Medium |
 | [0054-spiral-matrix](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0054-spiral-matrix/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0047-permutations-ii](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0047-permutations-ii/) | Medium |
 <!---LeetCode Topics End-->
