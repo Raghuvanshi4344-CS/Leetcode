@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0054-spiral-matrix](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0054-spiral-matrix/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0137-single-number-ii](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0137-single-number-ii/) | Medium |
+| [0139-word-break](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0139-word-break/) | Medium |
 | [0164-maximum-gap](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0164-maximum-gap/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0169-majority-element/) | Easy |
@@ -41,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0139-word-break](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0139-word-break/) | Medium |
 | [0169-majority-element](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0229-majority-element-ii](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0229-majority-element-ii/) | Medium |
@@ -66,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0043-multiply-strings](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0043-multiply-strings/) | Medium |
 | [0071-simplify-path](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0071-simplify-path/) | Medium |
+| [0139-word-break](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0139-word-break/) | Medium |
 | [0387-first-unique-character-in-a-string](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [1143-longest-common-subsequence](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/1143-longest-common-subsequence/) | Medium |
 ## Queue
@@ -211,6 +214,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0139-word-break](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0139-word-break/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/1143-longest-common-subsequence/) | Medium |
 ## Matrix
@@ -235,4 +239,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0456-132-pattern](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0456-132-pattern/) | Medium |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0139-word-break](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0139-word-break/) | Medium |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0139-word-break](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0139-word-break/) | Medium |
 <!---LeetCode Topics End-->
