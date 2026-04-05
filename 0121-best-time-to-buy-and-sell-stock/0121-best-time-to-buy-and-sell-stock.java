@@ -3,12 +3,8 @@ class Solution {
         int max=0;
         int min=prices[0];
         for(int i=0;i<prices.length;i++){
-            if(prices[i]<min){
-                min=prices[i];
-            }
-            else if(max<prices[i]-min){
-                max=prices[i]-min;
-            }
+            if(min>prices[i]) min=prices[i];
+            else max=Math.max(max,prices[i]-min);
         }
         return max;
     }
