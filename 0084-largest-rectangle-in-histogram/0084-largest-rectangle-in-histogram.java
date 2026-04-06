@@ -7,10 +7,10 @@ class Solution {
             int h=(i==arr.length)?0:arr[i];
 
             while(!s.isEmpty() && h<arr[s.peek()]){
-                int height=arr[s.peek()];
+                int height=arr[s.pop()];
                 int width;
                 if(s.isEmpty()) width=i;
-                else width=i-s.pop();
+                else width=i-s.peek()-1;
                 max=Math.max(max,width*height);
             }
             s.push(i);
