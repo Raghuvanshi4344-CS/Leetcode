@@ -6,7 +6,7 @@ class Solution {
         for(int i=0;i<r;i++){
             for(int j=0;j<c;j++){
                 if(mat[i][j]==0) q.add(new int[]{i,j});
-                else if(mat[i][j]=1) mat[i][j]=-1;
+                else mat[i][j]=-1;
             }
         }
         int []dx={0,0,1,-1};
@@ -18,7 +18,7 @@ class Solution {
                     int x=arr[0]+dx[j];
                     int y=arr[1]+dy[j];
                     if(x>=0 && y>=0 && x<r && y<c && mat[x][y]==-1){
-                        mat[x][y]=mat[x][y]+1;
+                        mat[x][y]=mat[arr[0]][arr[1]]+1;
                         q.add(new int[]{x,y});
                     }
                 }
