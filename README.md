@@ -51,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0133-clone-graph](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0133-clone-graph/) | Medium |
 | [0139-word-break](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0139-word-break/) | Medium |
 | [0169-majority-element](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0219-contains-duplicate-ii/) | Easy |
@@ -282,12 +283,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
+| [0133-clone-graph](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0133-clone-graph/) | Medium |
 | [0200-number-of-islands](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0695-max-area-of-island](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0695-max-area-of-island/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
+| [0133-clone-graph](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0133-clone-graph/) | Medium |
 | [0200-number-of-islands](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0542-01-matrix](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0542-01-matrix/) | Medium |
 | [0695-max-area-of-island](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0695-max-area-of-island/) | Medium |
@@ -301,4 +304,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0695-max-area-of-island](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0695-max-area-of-island/) | Medium |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0133-clone-graph](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0133-clone-graph/) | Medium |
 <!---LeetCode Topics End-->
