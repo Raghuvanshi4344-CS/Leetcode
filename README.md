@@ -137,6 +137,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0043-multiply-strings](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0043-multiply-strings/) | Medium |
+| [0172-factorial-trailing-zeroes](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0172-factorial-trailing-zeroes/) | Medium |
 | [0367-valid-perfect-square](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0367-valid-perfect-square/) | Easy |
 | [0441-arranging-coins](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0441-arranging-coins/) | Easy |
 | [2165-smallest-value-of-the-rearranged-number](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/2165-smallest-value-of-the-rearranged-number/) | Medium |
