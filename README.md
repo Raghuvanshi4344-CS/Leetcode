@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+| [0120-triangle](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0120-triangle/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0137-single-number-ii](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0137-single-number-ii/) | Medium |
@@ -236,6 +237,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0022-generate-parentheses/) | Medium |
+| [0120-triangle](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0120-triangle/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0139-word-break](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0139-word-break/) | Medium |
