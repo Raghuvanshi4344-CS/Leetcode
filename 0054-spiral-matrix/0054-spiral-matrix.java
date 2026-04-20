@@ -31,7 +31,7 @@ class Solution {
                     ls.add(matrix[i][left]);
                 }
                 left++;
-            }
+            }   
         }
         return ls;
     }
