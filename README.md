@@ -81,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0022-generate-parentheses](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0022-generate-parentheses/) | Medium |
+| [0038-count-and-say](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0038-count-and-say/) | Medium |
 | [0043-multiply-strings](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0043-multiply-strings/) | Medium |
 | [0058-length-of-last-word](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0058-length-of-last-word/) | Easy |
 | [0071-simplify-path](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0071-simplify-path/) | Medium |
