@@ -86,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0058-length-of-last-word](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0058-length-of-last-word/) | Easy |
 | [0071-simplify-path](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0071-simplify-path/) | Medium |
 | [0139-word-break](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0139-word-break/) | Medium |
+| [0151-reverse-words-in-a-string](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0387-first-unique-character-in-a-string](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [1143-longest-common-subsequence](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/1143-longest-common-subsequence/) | Medium |
 ## Queue
@@ -209,6 +210,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [0075-sort-colors](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
+| [0151-reverse-words-in-a-string](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0295-find-median-from-data-stream](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0349-intersection-of-two-arrays](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
