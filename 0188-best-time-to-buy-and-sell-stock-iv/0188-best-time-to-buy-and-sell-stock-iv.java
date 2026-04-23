@@ -9,7 +9,6 @@ class Solution {
 
         for(int i=1;i<=k;i++){
             buy[i]=Integer.MIN_VALUE;
-            sell[i]=0;
         }
         for(int i=0;i<arr.length;i++){
             for(int j=1;j<=k;j++){
