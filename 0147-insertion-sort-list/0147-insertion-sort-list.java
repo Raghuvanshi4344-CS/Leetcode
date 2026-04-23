@@ -12,17 +12,16 @@ class Solution {
     public ListNode insertionSortList(ListNode head) {
         if(head==null) return head;
         ListNode dummy=new ListNode(0);
-        ListNode curr=head;
-        while(curr!=null){
+        ListNode temp=head;
+        while(temp!=null){
             ListNode prev=dummy;
-            while(prev.next!=null && prev.next.val<curr.val){
+            while(prev.next!=null && prev.next.val<temp.val){
                 prev=prev.next;
             }
-            ListNode next=curr.next;
-
-            curr.next=prev.next;
-            prev.next=curr;
-            curr=next;
+            ListNode next=temp.next;
+            temp.next=prev.next;
+            prev.next=temp;
+            temp=next;
         }
         return dummy.next;
     }
