@@ -52,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0875-koko-eating-bananas](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0994-rotting-oranges](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0994-rotting-oranges/) | Medium |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -119,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0219-contains-duplicate-ii](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0239-sliding-window-maximum](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0904-fruit-into-baskets](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0904-fruit-into-baskets/) | Medium |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -267,6 +269,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0300-longest-increasing-subsequence](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0542-01-matrix](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0542-01-matrix/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/1143-longest-common-subsequence/) | Medium |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
