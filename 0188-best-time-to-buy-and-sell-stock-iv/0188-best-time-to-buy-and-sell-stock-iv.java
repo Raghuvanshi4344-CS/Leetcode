@@ -1,9 +1,6 @@
 class Solution {
     public int maxProfit(int k, int[] arr) {
         int n=arr.length;
-        // if(k>=n/2){
-
-        // }
         int []buy=new int[k+1];
         int []sell=new int[k+1];
 
