@@ -8,7 +8,7 @@ class Solution {
             t+=dif;
             c+=dif;
             if(c<0){
-                a=i+1;
+                a+=1;
                 c=0;
             }
         }
