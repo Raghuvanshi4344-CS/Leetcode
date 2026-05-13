@@ -87,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0050-powx-n](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0050-powx-n/) | Medium |
 | [0203-remove-linked-list-elements](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0203-remove-linked-list-elements/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -155,6 +156,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0043-multiply-strings](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0043-multiply-strings/) | Medium |
+| [0050-powx-n](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0050-powx-n/) | Medium |
 | [0149-max-points-on-a-line](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0149-max-points-on-a-line/) | Hard |
 | [0172-factorial-trailing-zeroes](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0172-factorial-trailing-zeroes/) | Medium |
 | [0367-valid-perfect-square](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0367-valid-perfect-square/) | Easy |
