@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [0039-combination-sum](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0039-combination-sum/) | Medium |
 | [0042-trapping-rain-water](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
+| [0045-jump-game-ii](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0045-jump-game-ii/) | Medium |
 | [0046-permutations](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0046-permutations/) | Medium |
 | [0047-permutations-ii](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0047-permutations-ii/) | Medium |
 | [0048-rotate-image](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0048-rotate-image/) | Medium |
@@ -270,6 +271,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0042-trapping-rain-water](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
+| [0045-jump-game-ii](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0045-jump-game-ii/) | Medium |
 | [0053-maximum-subarray](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0120-triangle](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0120-triangle/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -325,6 +327,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0011-container-with-most-water/) | Medium |
+| [0045-jump-game-ii](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0045-jump-game-ii/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0134-gas-station](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0134-gas-station/) | Medium |
 | [0135-candy](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0135-candy/) | Hard |
