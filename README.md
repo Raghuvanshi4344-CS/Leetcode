@@ -92,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0061-rotate-list](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0061-rotate-list/) | Medium |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0147-insertion-sort-list](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0147-insertion-sort-list/) | Medium |
 | [0203-remove-linked-list-elements](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0203-remove-linked-list-elements/) | Easy |
@@ -250,6 +251,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0027-remove-element/) | Easy |
 | [0042-trapping-rain-water](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
+| [0061-rotate-list](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0061-rotate-list/) | Medium |
 | [0075-sort-colors](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
