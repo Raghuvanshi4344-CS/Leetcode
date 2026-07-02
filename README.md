@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0054-spiral-matrix](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0054-spiral-matrix/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0074-search-a-2d-matrix](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
@@ -281,6 +282,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0033-search-in-rotated-sorted-array](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0074-search-a-2d-matrix](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
@@ -327,6 +329,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0054-spiral-matrix](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0054-spiral-matrix/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0074-search-a-2d-matrix](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0200-number-of-islands](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
