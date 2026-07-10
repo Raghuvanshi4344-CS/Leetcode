@@ -144,6 +144,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0229-majority-element-ii](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0229-majority-element-ii/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0387-first-unique-character-in-a-string](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [1603-design-parking-system](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/1603-design-parking-system/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -172,6 +173,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0155-min-stack](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0155-min-stack/) | Medium |
 | [0295-find-median-from-data-stream](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0622-design-circular-queue](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0622-design-circular-queue/) | Medium |
+| [1603-design-parking-system](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/1603-design-parking-system/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -342,6 +344,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0043-multiply-strings](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0043-multiply-strings/) | Medium |
 | [0054-spiral-matrix](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0054-spiral-matrix/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0059-spiral-matrix-ii/) | Medium |
+| [1603-design-parking-system](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/1603-design-parking-system/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
