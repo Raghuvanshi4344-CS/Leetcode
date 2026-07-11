@@ -8,6 +8,7 @@ class Solution {
                 if(res.charAt(j)==res.charAt(j-1)) count++;
                 else{
                     temp.append(count).append(res.charAt(j-1));
+                    count=1;
                 }
             }
             temp.append(count).append(res.charAt(res.length()-1));
