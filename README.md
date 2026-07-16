@@ -428,4 +428,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0149-max-points-on-a-line](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0149-max-points-on-a-line/) | Hard |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0175-combine-two-tables](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0175-combine-two-tables/) | Easy |
 <!---LeetCode Topics End-->
