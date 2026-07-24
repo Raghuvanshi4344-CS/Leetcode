@@ -1,20 +1,21 @@
 class Solution {
     public void setZeroes(int[][] matrix) {
-        List<Pair<Integer,Integer>> re=new ArrayList<>();
+
+        Set<Integer> row=new HashSet<>();
+        Set<Integer> col=new HashSet<>();
         for(int i=0;i<matrix.length;i++){
             for(int j=0;j<matrix[0].length;j++){
-                if(matrix[i][j]==0) re.add(new Pair<>(i,j));
+                if(matrix[i][j]==0){ 
+                    row.add(i);
+                    col.add(j);
+                }
             }
         }
-        for(int p=0;p<re.size();p++){
-            int row=re.get(p).getKey();
-            int col=re.get(p).getValue();
-            for(int i=0;i<matrix.length;i++){
-                matrix[i][col]=0;
-            }
+        for(int i=0;i<matrix.length;i++){
             for(int j=0;j<matrix[0].length;j++){
-                matrix[row][j]=0;
+                if(row.contains(i)||col.contains(j)) matrix[i][j]=0;
             }
         }
     }
 }
+
