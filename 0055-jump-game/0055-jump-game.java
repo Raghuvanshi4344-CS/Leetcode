@@ -6,9 +6,7 @@ class Solution {
                 reach=i;
             }
         }
-        if(reach==0){
-            return true;
-        }
+        if(reach==0) return true;
         return false;
     }
 }
