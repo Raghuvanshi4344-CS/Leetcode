@@ -65,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0456-132-pattern](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0456-132-pattern/) | Medium |
 | [0542-01-matrix](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0542-01-matrix/) | Medium |
+| [0560-subarray-sum-equals-k](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0622-design-circular-queue](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0622-design-circular-queue/) | Medium |
 | [0695-max-area-of-island](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0695-max-area-of-island/) | Medium |
 | [0817-linked-list-components](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0817-linked-list-components/) | Medium |
@@ -94,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0349-intersection-of-two-arrays](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0560-subarray-sum-equals-k](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0817-linked-list-components](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0817-linked-list-components/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0904-fruit-into-baskets/) | Medium |
 ## Linked List
@@ -319,6 +321,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0560-subarray-sum-equals-k](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
