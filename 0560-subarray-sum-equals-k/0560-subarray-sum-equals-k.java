@@ -1,17 +1,25 @@
 class Solution {
     public int subarraySum(int[] nums, int k) {
-        HashMap<Integer, Integer> prefixSums = new HashMap<>();
-        prefixSums.put(0, 1);  
+        HashMap<Integer, Integer> map = new HashMap<>();
+        // Base case: A prefix sum of 0 has appeared 1 time
+        map.put(0, 1);
+        
         int sum = 0;
         int count = 0;
-        for (int num : nums) {
-            sum += num;
-            if (prefixSums.containsKey(sum - k)) {
-                count += prefixSums.get(sum - k);
+        
+        for (int i = 0; i < nums.length; i++) {
+            sum += nums[i];
+            
+            int rs = sum - k;
+            // If (sum - k) happened before, add its frequency to our total count
+            if (map.containsKey(rs)) {
+                count += map.get(rs);
             }
-            prefixSums.put(sum, prefixSums.getOrDefault(sum, 0) + 1);
+            
+            // Put the current sum into the map or update its frequency
+            map.put(sum, map.getOrDefault(sum, 0) + 1);
         }
-
+        
         return count;
     }
 }
