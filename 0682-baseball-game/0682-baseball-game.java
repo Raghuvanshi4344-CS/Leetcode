@@ -14,7 +14,7 @@ class Solution {
                 st.push(tem);
                 st.push(su);
             }
-            else st.push(Integer.parseInt(operations[i]));
+            else st.push(Integer.valueOf(operations[i]));
         }
         int sum=0;
         while(!st.isEmpty()){
