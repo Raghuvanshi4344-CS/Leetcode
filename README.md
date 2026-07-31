@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0073-set-matrix-zeroes](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0075-sort-colors/) | Medium |
+| [0078-subsets](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0078-subsets/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0120-triangle](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0120-triangle/) | Medium |
@@ -79,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0078-subsets](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0078-subsets/) | Medium |
 | [0137-single-number-ii](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0137-single-number-ii/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -380,6 +382,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0046-permutations](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0046-permutations/) | Medium |
 | [0047-permutations-ii](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0047-permutations-ii/) | Medium |
 | [0077-combinations](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0077-combinations/) | Medium |
+| [0078-subsets](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0078-subsets/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
