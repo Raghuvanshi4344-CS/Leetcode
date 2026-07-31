@@ -1,16 +1,16 @@
 class Solution {
-    static void func(int []arr,List<Integer> temp,List<List<Integer>> re,int start){
+    void func(int []arr,List<List<Integer>> re,List<Integer> temp,int start){
         re.add(new ArrayList<>(temp));
         for(int i=start;i<arr.length;i++){
             temp.add(arr[i]);
-            func(arr,temp,re,i+1);
+            func(arr,re,temp,i+1);
             temp.remove(temp.size()-1);
         }
-    } 
+    }
     public List<List<Integer>> subsets(int[] nums) {
-        List<List<Integer>> re= new ArrayList<>();
-        List<Integer> temp = new ArrayList<>();
-        func(nums,temp,re,0);
+        List<List<Integer>> re=new ArrayList<>();
+        List<Integer> temp=new ArrayList<>();
+        func(nums,re,temp,0);
         return re;
     }
 }
