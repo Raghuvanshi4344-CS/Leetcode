@@ -415,6 +415,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
+| [0938-range-sum-of-bst](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0938-range-sum-of-bst/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -423,6 +424,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0133-clone-graph](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0133-clone-graph/) | Medium |
 | [0200-number-of-islands](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0695-max-area-of-island](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0695-max-area-of-island/) | Medium |
+| [0938-range-sum-of-bst](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0938-range-sum-of-bst/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -439,6 +441,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
+| [0938-range-sum-of-bst](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0938-range-sum-of-bst/) | Easy |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -461,4 +464,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0023-merge-k-sorted-lists/) | Hard |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0938-range-sum-of-bst](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0938-range-sum-of-bst/) | Easy |
 <!---LeetCode Topics End-->
