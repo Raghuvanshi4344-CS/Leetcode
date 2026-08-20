@@ -1,21 +1,17 @@
 class Solution {
-    public int findMin(int[] arr) {
-        int low=0;
-        int high =arr.length-1;
-        int mid=-1;
+    public int findMin(int[] nums) {
+        int low=0,high=nums.length-1;
         while(low<high){
-            mid=low+(high-low)/2;
-            if(arr[mid]==arr[low] &&arr [mid]==arr[high]){
+            int mid=low+(high-low)/2;
+            if(nums[mid]==nums[low] && nums[mid]==nums[high]){
                 low++;
                 high--;
             }
-            else if(arr[mid]>arr[high]){
+            else if(nums[mid]>nums[high]){
                 low=mid+1;
             }
-            else{
-                high=mid;
-            }
+            else high=mid;
         }
-        return arr[low];
+        return nums[low];
     }
 }
