@@ -71,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0622-design-circular-queue](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0622-design-circular-queue/) | Medium |
 | [0682-baseball-game](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0682-baseball-game/) | Easy |
 | [0695-max-area-of-island](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0695-max-area-of-island/) | Medium |
+| [0724-find-pivot-index](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0724-find-pivot-index/) | Easy |
 | [0817-linked-list-components](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0817-linked-list-components/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0904-fruit-into-baskets/) | Medium |
@@ -330,6 +331,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0209-minimum-size-subarray-sum](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0724-find-pivot-index](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0724-find-pivot-index/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
