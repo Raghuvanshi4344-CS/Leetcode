@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
 | [0134-gas-station](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0134-gas-station/) | Medium |
 | [0135-candy](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0135-candy/) | Hard |
+| [0136-single-number](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0136-single-number/) | Easy |
 | [0137-single-number-ii](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0137-single-number-ii/) | Medium |
 | [0139-word-break](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0139-word-break/) | Medium |
 | [0149-max-points-on-a-line](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0149-max-points-on-a-line/) | Hard |
@@ -82,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0078-subsets](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0078-subsets/) | Medium |
+| [0136-single-number](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0136-single-number/) | Easy |
 | [0137-single-number-ii](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0137-single-number-ii/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
