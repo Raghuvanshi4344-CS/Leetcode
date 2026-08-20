@@ -85,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0078-subsets](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0078-subsets/) | Medium |
 | [0136-single-number](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0136-single-number/) | Easy |
 | [0137-single-number-ii](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0137-single-number-ii/) | Medium |
+| [0231-power-of-two](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0231-power-of-two/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -128,6 +129,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0024-swap-nodes-in-pairs](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0050-powx-n](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0050-powx-n/) | Medium |
 | [0203-remove-linked-list-elements](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0203-remove-linked-list-elements/) | Easy |
+| [0231-power-of-two](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0231-power-of-two/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -213,6 +215,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0050-powx-n](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0050-powx-n/) | Medium |
 | [0149-max-points-on-a-line](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0149-max-points-on-a-line/) | Hard |
 | [0172-factorial-trailing-zeroes](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0172-factorial-trailing-zeroes/) | Medium |
+| [0231-power-of-two](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0367-valid-perfect-square](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0367-valid-perfect-square/) | Easy |
 | [0441-arranging-coins](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0441-arranging-coins/) | Easy |
 | [2165-smallest-value-of-the-rearranged-number](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/2165-smallest-value-of-the-rearranged-number/) | Medium |
