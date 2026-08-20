@@ -72,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0622-design-circular-queue](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0622-design-circular-queue/) | Medium |
 | [0682-baseball-game](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0682-baseball-game/) | Easy |
 | [0695-max-area-of-island](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0695-max-area-of-island/) | Medium |
+| [0704-binary-search](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0704-binary-search/) | Easy |
 | [0724-find-pivot-index](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0724-find-pivot-index/) | Easy |
 | [0817-linked-list-components](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0817-linked-list-components/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0875-koko-eating-bananas/) | Medium |
@@ -331,6 +332,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0441-arranging-coins](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0441-arranging-coins/) | Easy |
 | [0456-132-pattern](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0456-132-pattern/) | Medium |
+| [0704-binary-search](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0704-binary-search/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0875-koko-eating-bananas/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
