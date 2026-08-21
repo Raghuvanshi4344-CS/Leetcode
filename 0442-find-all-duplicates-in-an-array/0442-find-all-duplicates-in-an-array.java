@@ -12,9 +12,6 @@ class Solution {
                 i++;
             }
         }
-        for(int k:nums){
-            System.out.println(k);
-        }
         for(int k=0;k<nums.length;k++){
             if(nums[k]!=k+1) ls.add(nums[k]);
         }
