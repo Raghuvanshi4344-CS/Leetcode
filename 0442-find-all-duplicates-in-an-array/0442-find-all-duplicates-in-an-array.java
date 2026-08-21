@@ -1,23 +1,23 @@
 class Solution {
-    public List<Integer> findDuplicates(int[] arr) {
+    public List<Integer> findDuplicates(int[] nums) {
         int i=0;
-        for(;i<arr.length;){
-            int ci=arr[i]-1;
-            if(arr[i]>=1 && arr[i]<=arr.length && arr[i]!=arr[ci]){
-                int temp=arr[ci];
-                arr[ci]=arr[i];
-                arr[i]=temp;
+        List<Integer> ls=new ArrayList<>();
+        for(;i<nums.length;){
+            if(nums[i]!=nums[nums[i]-1]){
+                int temp=nums[i];
+                nums[i]=nums[temp-1];
+                nums[temp-1]=temp;
             }
             else{
                 i++;
             }
         }
-        ArrayList <Integer> ar=new ArrayList<Integer>();
-        for(i=0;i<arr.length;i++){
-            if(arr[i]-1!=i){
-                ar.add(arr[i]);
-            }
+        for(int k:nums){
+            System.out.println(k);
         }
-        return ar;
+        for(int k=0;k<nums.length;k++){
+            if(nums[k]!=k+1) ls.add(nums[k]);
+        }
+        return ls;
     }
 }
