@@ -63,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0238-product-of-array-except-self](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0240-search-a-2d-matrix-ii](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+| [0268-missing-number](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0274-h-index](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0274-h-index/) | Medium |
 | [0283-move-zeroes](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0300-longest-increasing-subsequence](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
@@ -95,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0137-single-number-ii](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0137-single-number-ii/) | Medium |
 | [0191-number-of-1-bits](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0191-number-of-1-bits/) | Easy |
 | [0231-power-of-two](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0231-power-of-two/) | Easy |
+| [0268-missing-number](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0268-missing-number/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -108,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0229-majority-element-ii](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0229-majority-element-ii/) | Medium |
+| [0268-missing-number](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
@@ -226,6 +229,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0172-factorial-trailing-zeroes](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0172-factorial-trailing-zeroes/) | Medium |
 | [0189-rotate-array](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0231-power-of-two](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0231-power-of-two/) | Easy |
+| [0268-missing-number](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0367-valid-perfect-square](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0367-valid-perfect-square/) | Easy |
 | [0441-arranging-coins](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0441-arranging-coins/) | Easy |
 | [2165-smallest-value-of-the-rearranged-number](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/2165-smallest-value-of-the-rearranged-number/) | Medium |
@@ -244,6 +248,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0215-kth-largest-element-in-an-array](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0218-the-skyline-problem](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0218-the-skyline-problem/) | Hard |
 | [0229-majority-element-ii](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0229-majority-element-ii/) | Medium |
+| [0268-missing-number](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0274-h-index](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0274-h-index/) | Medium |
 | [0295-find-median-from-data-stream](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -338,6 +343,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+| [0268-missing-number](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0300-longest-increasing-subsequence](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
