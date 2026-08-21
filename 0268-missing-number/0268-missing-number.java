@@ -1,22 +1,10 @@
 class Solution {
-    public int missingNumber(int[] arr) {
-        int i=0;
-        for(;i<arr.length;){
-            if(arr[i]<arr.length && arr[i]!=i ){
-                int temp=arr[arr[i]];
-                arr[arr[i]]=arr[i];
-                arr[i]=temp;
-                i=i;
-            }
-            else {
-                i++;
-            }
+    public int missingNumber(int[] nums) {
+        int s=0,ss=0;
+        for(int i=0;i<=nums.length;i++) ss+=i;
+        for(int i:nums){
+            s+=i;
         }
-        for(i=0;i<arr.length;i++){
-            if(arr[i]!=i){
-                return i;
-            }
-        }
-        return arr.length;
+        return ss-s;
     }
 }
