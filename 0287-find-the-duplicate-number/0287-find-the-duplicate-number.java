@@ -1,22 +1,17 @@
 class Solution {
-    public int findDuplicate(int[] arr) {
+    public int findDuplicate(int[] nums) {
         int i=0;
-        for(;i<arr.length;){
-            int ci=arr[i]-1;
-            if(arr[i]>=1 && arr[i]<=arr.length && arr[i]!=arr[ci]){
-                int temp=arr[i];
-                arr[i]=arr[ci];
-                arr[ci]=temp;
+        for(;i<nums.length;){
+            if(nums[i]!=nums[nums[i]-1]){
+                int temp=nums[i];
+                nums[i]=nums[temp-1];
+                nums[temp-1]=temp;
             }
-            else{
-                i++;
-            }
+            else i++;
         }
-        for(i=0;i<arr.length;i++){
-            if(arr[i]!=i+1){
-                return arr[i];
-            }
+        for(int k=0;k<nums.length;k++){
+            if(nums[k]-1!=k) return nums[k];
         }
-        return arr.length;
+        return nums.length;
     }
 }
