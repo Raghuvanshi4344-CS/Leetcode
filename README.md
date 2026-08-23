@@ -243,6 +243,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0367-valid-perfect-square](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0367-valid-perfect-square/) | Easy |
 | [0441-arranging-coins](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0441-arranging-coins/) | Easy |
+| [1017-convert-to-base-2](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/1017-convert-to-base-2/) | Medium |
 | [2165-smallest-value-of-the-rearranged-number](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/2165-smallest-value-of-the-rearranged-number/) | Medium |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 ## Sorting
