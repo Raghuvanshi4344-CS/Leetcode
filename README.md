@@ -104,6 +104,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0645-set-mismatch](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0645-set-mismatch/) | Easy |
+| [1009-complement-of-base-10-integer](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/1009-complement-of-base-10-integer/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
