@@ -18,6 +18,7 @@ class Solution {
             tem=tem.next;
         }
         k=k%c;
+        if(k==c) return head;
         while(k>0){
             f=f.next;
             k--;
