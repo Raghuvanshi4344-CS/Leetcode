@@ -5,11 +5,9 @@ class Solution {
         long max3 = Long.MIN_VALUE;
 
         for (int num : nums) {
-            // Skip duplicates
             if (num == max1 || num == max2 || num == max3) {
                 continue;
             }
-
             if (num > max1) {
                 max3 = max2;
                 max2 = max1;
