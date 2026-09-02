@@ -180,6 +180,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1143-longest-common-subsequence](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/1768-merge-strings-alternately/) | Easy |
+| [2390-removing-stars-from-a-string](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -236,6 +237,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0456-132-pattern](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0456-132-pattern/) | Medium |
 | [0682-baseball-game](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0682-baseball-game/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
+| [2390-removing-stars-from-a-string](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -434,6 +436,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0059-spiral-matrix-ii](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0682-baseball-game](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0682-baseball-game/) | Easy |
 | [1603-design-parking-system](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/1603-design-parking-system/) | Easy |
+| [2390-removing-stars-from-a-string](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
