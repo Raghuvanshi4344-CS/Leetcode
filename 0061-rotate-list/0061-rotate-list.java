@@ -10,26 +10,26 @@
  */
 class Solution {
     public ListNode rotateRight(ListNode head, int k) {
-        if(head==null||head.next==null)return head;
-        ListNode tem=head,f=head,s=head;
-        int c=0;
-        while(tem!=null){
-            c++;
-            tem=tem.next;
+        if(head==null) return head;
+        int n=0;
+        ListNode temp=head;
+        while(temp!=null){
+            n++;
+            temp=temp.next;
         }
-        k=k%c;
-        if(k==c) return head;
+        k=k%n;
+        ListNode fast=head,slow=head;
         while(k>0){
-            f=f.next;
+            fast=fast.next;
             k--;
         }
-        while(f.next!=null){
-            f=f.next;
-            s=s.next;
+        while(fast.next!=null){
+            fast=fast.next;
+            slow=slow.next;
         }
-        f.next=head;
-        head=s.next;
-        s.next=null;
+        fast.next=head;
+        head=slow.next;
+        slow.next=null;
         return head;
     }
 }
