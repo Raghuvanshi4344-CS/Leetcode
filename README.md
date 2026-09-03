@@ -150,6 +150,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0142-linked-list-cycle-ii](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0147-insertion-sort-list](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0147-insertion-sort-list/) | Medium |
 | [0203-remove-linked-list-elements](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0203-remove-linked-list-elements/) | Easy |
+| [0206-reverse-linked-list](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0206-reverse-linked-list/) | Easy |
 | [0622-design-circular-queue](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0622-design-circular-queue/) | Medium |
 | [0817-linked-list-components](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0817-linked-list-components/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
@@ -161,6 +162,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0024-swap-nodes-in-pairs](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0050-powx-n](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0050-powx-n/) | Medium |
 | [0203-remove-linked-list-elements](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0203-remove-linked-list-elements/) | Easy |
+| [0206-reverse-linked-list](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0206-reverse-linked-list/) | Easy |
 | [0231-power-of-two](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0231-power-of-two/) | Easy |
 ## String
 | Problem Name | Difficulty |
