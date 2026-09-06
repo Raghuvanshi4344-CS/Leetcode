@@ -3,9 +3,9 @@ class Solution {
         int low=0,high=nums.length-1;
         while(low<high){
             int mid=low+(high-low)/2;
-            if(nums[mid]==nums[low] && nums[mid]==nums[high]){
-                low++;
+            if(nums[low]==nums[mid] && nums[mid]==nums[high]){
                 high--;
+                low++;
             }
             else if(nums[mid]>nums[high]){
                 low=mid+1;
