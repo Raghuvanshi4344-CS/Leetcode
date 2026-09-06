@@ -15,5 +15,6 @@ class Solution {
             if(max[i]-min[i]<=k) return i;
         }
         return -1;
+
     }
 }
