@@ -1,26 +1,16 @@
 class Solution {
+    public void helper(int nums[],int low,int high){
+        while(low<=high){
+            int temp=nums[low];
+            nums[low]=nums[high];
+            nums[high]=temp;
+            low++;high--;
+        }
+    }
     public void rotate(int[] nums, int k) {
         k=k%nums.length;
-        int low=0,high=nums.length-1;
-        while(low<=high){
-            int temp=nums[low];
-            nums[low]=nums[high];
-            nums[high]=temp;
-            low++;high--;
-        }
-        low=0;high=k-1;
-        while(low<=high){
-            int temp=nums[low];
-            nums[low]=nums[high];
-            nums[high]=temp;
-            low++;high--;
-        }
-        low=k;high=nums.length-1;
-        while(low<=high){
-            int temp=nums[low];
-            nums[low]=nums[high];
-            nums[high]=temp;
-            low++;high--;
-        }
+        helper(nums,0,nums.length-1);
+        helper(nums,0,k-1);
+        helper(nums,k,nums.length-1);
     }
 }
