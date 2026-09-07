@@ -1,14 +1,14 @@
 class Solution {
-    public int trap(int[] height) {
+    public int trap(int[] arr) {
         int max=0;
         Stack<Integer> st=new Stack<>();
-        for(int i=0;i<height.length;i++){
-            while(!st.isEmpty() && height[st.peek()]<height[i]){
+        for(int i=0;i<arr.length;i++){
+            while(!st.isEmpty() && arr[st.peek()]<arr[i]){
                 int temp=st.pop();
                 if(st.isEmpty()) break;
                 int diff=i-st.peek()-1;
-                int dep=Math.min(height[i],height[st.peek()])-height[temp];
-                max+=dep*diff;
+                int height=Math.min(arr[i],arr[st.peek()])-arr[temp];
+                max+=diff*height;
             }
             st.push(i);
         }
