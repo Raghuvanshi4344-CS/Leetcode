@@ -17,17 +17,14 @@ class Solution {
     void func(TreeNode root,int arr[],int c){
         if(root==null) return;
         c++;
-        if(root.left==null && root.right==null){
-            if(arr[0]>c){
-                arr[0]=c;
-            }
-        }
+        if(root.left==null && root .right==null && arr[0]>c) arr[0]=c;
         func(root.left,arr,c);
         func(root.right,arr,c);
     }
+
     public int minDepth(TreeNode root) {
-        if (root == null) return 0;
-        int arr[]={100000};
+        if(root==null) return 0;
+        int arr[]={1000000};
         func(root,arr,0);
         return arr[0];
     }
