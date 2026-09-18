@@ -16,9 +16,7 @@
 class Solution {
     boolean func(TreeNode root,long min,long max){
         if(root==null) return true;
-        if(min>=root.val || max<=root.val){
-            return false;
-        }
+        if(min>=root.val || max<=root.val) return false;
         return func(root.left,min,root.val) && func(root.right,root.val,max);
     }
     public boolean isValidBST(TreeNode root) {
