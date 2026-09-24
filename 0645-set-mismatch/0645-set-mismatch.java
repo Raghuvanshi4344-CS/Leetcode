@@ -1,23 +1,17 @@
 class Solution {
     public int[] findErrorNums(int[] nums) {
-        int s=0,ss=0;
+        int count[]=new int[nums.length+1];
+        for(int i:nums){
+            count[i]++;
+        }
+        int dup=0;
+        int miss=0;
         for(int i=1;i<=nums.length;i++){
-            s+=i;
-            ss+=nums[i-1];
-        }
-        HashMap<Integer,Integer> hm=new HashMap<>();
-        System.out.println(ss);
-        System.out.println(s);
-        int arr[]=new int[2];
-        for(int i=0;i<nums.length;i++){
-            if(hm.containsKey(nums[i])){
-                arr[0]=nums[i];
-                ss-=nums[i];
-                arr[1]=s-ss;
-                return arr;
+            if(count[i]==2){
+                dup=i;
             }
-            hm.put(nums[i],i);
+            if(count[i]==0) miss=i;
         }
-        return arr;
+        return new int[]{dup,miss};
     }
 }
