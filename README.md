@@ -95,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
+| [1929-concatenation-of-array](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/1929-concatenation-of-array/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/3904-smallest-stable-index-ii/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -445,6 +446,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0059-spiral-matrix-ii](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0682-baseball-game](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0682-baseball-game/) | Easy |
 | [1603-design-parking-system](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/1603-design-parking-system/) | Easy |
+| [1929-concatenation-of-array](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/1929-concatenation-of-array/) | Easy |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/2177-find-three-consecutive-integers-that-sum-to-a-given-number/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Backtracking
