@@ -93,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0904-fruit-into-baskets](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0994-rotting-oranges](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0994-rotting-oranges/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
+| [1470-shuffle-the-array](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/1470-shuffle-the-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1929-concatenation-of-array](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/1929-concatenation-of-array/) | Easy |
