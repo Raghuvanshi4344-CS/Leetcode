@@ -9,36 +9,30 @@
  * }
  */
 class Solution {
-    public ListNode merge(ListNode a,ListNode b){
-        ListNode dum=new ListNode(0);
-        ListNode temp=dum;
+    ListNode merge(ListNode a,ListNode b){
+        ListNode dummy=new ListNode(0);
+        ListNode temp=dummy;
         while(a!=null && b!=null){
-            if(a.val<=b.val){
-                temp.next=a;
-                a=a.next;
+            if(a.val>b.val){
+                temp.next=b;
                 temp=temp.next;
+                b=b.next;
             }
             else{
-                temp.next=b;
-                b=b.next;
+                temp.next=a;
                 temp=temp.next;
+                a=a.next;
             }
         }
-        if(a!=null){
-            temp.next=a;
-            }
-        if(b!=null){
-            temp.next=b;
-        }
-        return dum.next;
+        if(a!=null) temp.next=a;
+        if(b!=null) temp.next=b;
+        return dummy.next;
     }
     public ListNode mergeKLists(ListNode[] lists) {
-    ListNode res = null;
-    for (int i = 0; i < lists.length; i++) {
-        if (lists[i] != null) {
-            res = merge(res, lists[i]);
+        ListNode res=null;
+        for(int i=0;i<lists.length;i++){
+            res=merge(res,lists[i]);
         }
-    }
-    return res;
+        return res;
     }
 }
