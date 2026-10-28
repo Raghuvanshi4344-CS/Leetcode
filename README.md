@@ -70,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0283-move-zeroes](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
+| [0322-coin-change](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0322-coin-change/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
@@ -420,6 +421,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0188-best-time-to-buy-and-sell-stock-iv/) | Hard |
 | [0198-house-robber](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0198-house-robber/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
+| [0322-coin-change](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0322-coin-change/) | Medium |
 | [0376-wiggle-subsequence](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0376-wiggle-subsequence/) | Medium |
 | [0542-01-matrix](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0542-01-matrix/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/1143-longest-common-subsequence/) | Medium |
@@ -516,6 +518,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0133-clone-graph](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0133-clone-graph/) | Medium |
 | [0200-number-of-islands](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0200-number-of-islands/) | Medium |
+| [0322-coin-change](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0322-coin-change/) | Medium |
 | [0542-01-matrix](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0542-01-matrix/) | Medium |
 | [0695-max-area-of-island](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0695-max-area-of-island/) | Medium |
 | [0994-rotting-oranges](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0994-rotting-oranges/) | Medium |
@@ -593,4 +596,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0023-merge-k-sorted-lists/) | Hard |
+## Knapsack Problem
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0322-coin-change](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0322-coin-change/) | Medium |
+## Complete Knapsack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0322-coin-change](https://github.com/Raghuvanshi4344-CS/Leetcode/tree/main/0322-coin-change/) | Medium |
 <!---LeetCode Topics End-->
