@@ -2,7 +2,7 @@ class Solution {
     public int maxArea(int[] arr) {
         int max=0;
         int left=0,right=arr.length-1;
-        while(left<=right){
+        while(left<right){
             int temp=0;
             if(arr[left]<arr[right]){
                 temp=arr[left]*(right-left);
